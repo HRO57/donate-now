@@ -109,3 +109,33 @@ input {
     color: white;
     margin-top: 10px;
 }
+
+.shadow2 {
+    box-shadow: 10px 10px 30px black;
+    margin-right: 2%;
+    margin-left: 6%;
+    padding: 2.5%;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.fifth-container {
+    display: flex;
+}
+
+.bonusbox {
+    width: 25%;
+    margin-left: 10%;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 5%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.footer-text-color{
+    color:green;
+}
